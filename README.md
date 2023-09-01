@@ -9,15 +9,12 @@ I'm Maksym.
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/-Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/-Latex-008080?style=for-the-badge&logo=latex&logoColor=white)
-![](https://img.shields.io/badge/-Ocaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 
 </div>
 <h3 align="center">Frontend</h3>
