@@ -1,8 +1,8 @@
 <div align="center"></div>
 <p>
 </p>
-<p align="center" style = "font:3rem;">
-I'm Maksym.
+<p align="center">
+###I'm Maksym.
 </p>
 <h3 align="center">Languages</h3>
 <div align="center">
