@@ -12,7 +12,6 @@ I'm Maksym.
 ![](https://img.shields.io/badge/-Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,6 +71,7 @@ I'm Maksym.
 <div align="center">
 
 ![](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/-Flutterflow-3DDC84?style=for-the-badge&logo=flutterflow&logoColor=white)
 
 </div>
 <h3 align="center">Development Tools</h3>
