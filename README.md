@@ -1,7 +1,7 @@
 <div align="center"></div>
 <p>
 </p>
-<p align="center" style = "font:30px">
+<p align="center" style = "font:3rem;">
 I'm Maksym.
 </p>
 <h3 align="center">Languages</h3>
