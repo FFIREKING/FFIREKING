@@ -71,7 +71,6 @@ I'm Maksym.
 <div align="center">
 
 ![](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/-Flutterflow-3DDC84?style=for-the-badge&logo=flutterflow&logoColor=white)
 
 </div>
 <h3 align="center">Development Tools</h3>
@@ -80,23 +79,18 @@ I'm Maksym.
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/-IntellijIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![](https://img.shields.io/badge/-Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 ![](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 </div>
 <h3 align="center">Email</h3>
 <div align="center">
 
-  [![](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:xinjie.sun@outlook.com)
-  [![](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cs.welles.sun@gmail.com)
+  [![](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Maksym_dev@outlook.com)
+  [![](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strongamor222@gmail.com)
   
 </div>
 <h3 align="center">GitHub Stats</h3>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
 <div align="center">
-
-![](https://raw.githubusercontent.com/CSWellesSun/CSWellesSun/main/assets/github-contribution-grid-snake.svg)
 
 </div>
