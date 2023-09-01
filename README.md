@@ -1,9 +1,9 @@
 <div align="center"></div>
 <p>
 </p>
-<p align="center">
+<h1 align="center">
 I'm Maksym.
-</p>
+</h1>
 <h3 align="center">Languages</h3>
 <div align="center">
 
