@@ -90,7 +90,7 @@ I'm Maksym.
   
 </div>
 <h3 align="center">GitHub Stats</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FFIREKING" /> </div>
 <div align="center">
 
 </div>
