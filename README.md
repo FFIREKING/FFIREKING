@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">
-  <img width="50" height="50" src="https://img.icons8.com/bubbles/50/fire-element.png" alt="fire-element"/>
+  <img width="30" height="30" src="https://img.icons8.com/bubbles/50/fire-element.png" alt="fire-element"/>
 I'm Maksym.
-  <img width="50" height="50" src="https://img.icons8.com/bubbles/50/fire-element.png" alt="fire-element"/>
+  <img width="30" height="30" src="https://img.icons8.com/bubbles/50/fire-element.png" alt="fire-element"/>
 </h1>
 <h3 align="center">Languages</h3>
 <div align="center">
