@@ -68,7 +68,7 @@ I'm Maksym.
 <div align="center">
 
 ![](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/-Flutterflow-3DDC84?style=for-the-badge&logo=flutterflow&logoColor=white)
+![](https://img.shields.io/badge/-Flutterflow-181717?style=for-the-badge&logo=flutterflow&logoColor=white)
 
 </div>
 <h3 align="center">Development Tools</h3>
