@@ -2,7 +2,7 @@
 <p>
 </p>
 <h1 align="center">
-<img width="100" height="100" src="https://img.icons8.com/bubbles/100/fire-element.png" alt="fire-element"/>I'm Maksym.<img width="100" height="100" src="https://img.icons8.com/bubbles/100/fire-element.png" alt="fire-element"/>
+<img width="50" height="50" src="https://img.icons8.com/bubbles/50/fire-element.png" alt="fire-element"/>I'm Maksym.<img width="50" height="50" src="https://img.icons8.com/bubbles/50/fire-element.png" alt="fire-element"/>
 </h1>
 <h3 align="center">Languages</h3>
 <div align="center">
